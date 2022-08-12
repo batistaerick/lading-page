@@ -3,7 +3,7 @@ import Wrapper from "./styles";
 function Home() {
   return (
     <div className="Home">
-      <Wrapper background="blue">
+      <Wrapper>
         <div>Test</div>
       </Wrapper>
     </div>
